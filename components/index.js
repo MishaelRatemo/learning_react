@@ -4,12 +4,30 @@
 not the functional way e.g <ComponentName /> not ComponentName().
 */
 // the element in the compont must bbe in one parent element
-function Header(){
-    <h1>Fun fatcs about React</h1>
+// use className instead of class to style elements
+function Nav(){
+    return(
+        <nav>
+            <ul>
+                <li className='gold'>Home</li>
+                <li>About</li>
+                <li>Contact</li>
+            </ul>
+        </nav>
+    )
 }
+
+function Header(){
+    return(
+    <h1>Fun fatcs about React</h1>
+
+    )
+}
+
 function ComponentName() {
     return(
         <div>
+            <Nav />
             <Header />
             <ul>
                 <li>Was released first in 2013</li>
