@@ -1,0 +1,14 @@
+:root {
+    --bg: #23252C;
+    --bg-color: #1A1B21;
+    --white: #FFFFFF;
+  }
+
+  .interest{
+    background-color: var(--bg-color);
+    text-align: left;
+    padding:0 5%;
+  }
+  .interests p{    
+        line-height: 150%;
+  }

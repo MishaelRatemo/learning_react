@@ -1,5 +1,5 @@
 import React from 'react'
-
+import'./Interest.css'
 function Interests() {
     return (
         <div className='interest'>
