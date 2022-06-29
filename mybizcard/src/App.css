@@ -9,5 +9,20 @@
   color: var(--white);
   background-color: var(--bg-color);
 }
+.footer{
+  width: 100%;
+  background-color: var(--bg-color);
+}
+footer{
+  background-color:#161619 ;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  
+  align-items: center;
+}
+footer img{
+  margin-right: 2%;
+}
 
 
