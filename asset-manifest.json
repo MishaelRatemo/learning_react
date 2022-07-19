@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactprops/static/css/main.254ada05.css",
+    "main.js": "/reactprops/static/js/main.7a68d56b.js",
+    "static/media/avt4.jpg": "/reactprops/static/media/avt4.4faf55da768e89bbb706.jpg",
+    "static/media/avt1.png": "/reactprops/static/media/avt1.338d35584669312b5094.png",
+    "static/media/avt2.png": "/reactprops/static/media/avt2.6d3461ac46266a6812f3.png",
+    "index.html": "/reactprops/index.html",
+    "main.254ada05.css.map": "/reactprops/static/css/main.254ada05.css.map",
+    "main.7a68d56b.js.map": "/reactprops/static/js/main.7a68d56b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.254ada05.css",
+    "static/js/main.7a68d56b.js"
+  ]
+}
