@@ -1,0 +1,1 @@
+## learning on how to use react props mapping an array of items from in props
