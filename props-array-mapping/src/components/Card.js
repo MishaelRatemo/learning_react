@@ -1,9 +1,8 @@
 import React from 'react'
-
 function Card(props) {
   return (
     <div className='card'>
-        <img src={`../images/${props.image}`}  className='locator' alt="" />
+        <img src={ `../images/${props.image}`}  className='locator' alt="" />
         <div className="cardcontent">
             <section>
                 <img src="" className='' alt="" />
