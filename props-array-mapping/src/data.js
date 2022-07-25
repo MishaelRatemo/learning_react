@@ -17,7 +17,7 @@
         startDate: '11 May, 2023',
         endDate:'11 May, 2022',
         description:"This a natural forest placed in the outskirt of Nairobi city. This place is nice for family  and groups outing for chiling.",
-        image:'./images/aboretum.jpg',
+        image:'karura.jpg',
     },
     {
         pk:3,
@@ -27,7 +27,7 @@
         startDate: '11 May, 2023',
         endDate:'11 May, 2022',
         description:"This a natural forest placed in the outskirt of Nairobi city. This place is nice for family  and groups outing for chiling.",
-        image:'./images/aboretum.jpg',
+        image:'lake-elementeita.jpg',
     },
     {
         pk:4,
@@ -37,7 +37,7 @@
         startDate: '11 May, 2023',
         endDate:'11 May, 2022',
         description:"This a natural forest placed in the outskirt of Nairobi city. This place is nice for family  and groups outing for chiling.",
-        image:'./images/aboretum.jpg',
+        image:'olodonyo.jpg',
     }
 ]
 
