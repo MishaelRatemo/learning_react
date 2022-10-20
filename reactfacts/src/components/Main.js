@@ -1,8 +1,8 @@
 import React from 'react'
 // import bg from '../images/logo.svg'
-function Main() {
+function Main(props) {
   return (
-      <main>
+      <main className={props.darkMode ? "dark": ""}>
         {/* <img src={bg} className="nav--icon" alt='logo' /> */}
         
           <h1 className="main--title">Fun facts about React</h1>
